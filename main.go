@@ -8,6 +8,7 @@ func main() {
  	//int var e
 	e := 0.0
 	fmt.Scanln(&lim)
+  fmt.Println("\n")
 	i := 0
 	aux := 1
 
