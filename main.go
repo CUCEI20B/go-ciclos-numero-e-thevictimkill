@@ -10,7 +10,7 @@ func main() {
 	i := 0
 	aux := 1
 
-	for i <= lim {
+	for i < lim {
 		for l := 1; l <= i+1; l++ {
 			aux *= l
 		}
