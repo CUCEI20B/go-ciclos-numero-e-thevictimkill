@@ -19,7 +19,7 @@ func main() {
 			e += (1.0 / float64(aux))
 			aux = 1
 		}
-		fmt.Println(e)
+		fmt.Println("Actual:",e)
 		i++
 	}
 
